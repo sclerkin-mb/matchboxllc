@@ -1,0 +1,2 @@
+'loan folder name update
+TextBox43.Text = EncompassApplication.CurrentLoan.LoanFolder
